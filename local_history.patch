@@ -1,0 +1,8 @@
+Index: application/views/admin/companies/add.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- application/views/admin/companies/add.php	(revision )
++++ application/views/admin/companies/add.php	(revision )
+@@ -1,0 +1,0 @@
